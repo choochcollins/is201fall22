@@ -1,0 +1,43 @@
+/* These are the approved styles for the site */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(254, 172, 21);
+    background-color: pink;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(213, 138, 0);
+}
+.chooch {
+    color: white;
+}
+a {color: rgb(213, 138, 0);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline ;
+}
+
+a:visited {
+    color: black;
+}
+
+li {font-weight: normal; font-style: italic; color: rgb(213, 138, 0);}
+
+ul {font-style: italic;}
+
+.bold {font-weight: bold;
+    font-style: normal;}
+
+.underline {text-decoration: underline;}
+
+.justify {text-align: justify;}
+
+.homebg {
+    background-image: url('images/cool\ backgroun.jpeg');
+    background-position: bottom right;
+    background-repeat: repeat-x repeat-y;
+}
